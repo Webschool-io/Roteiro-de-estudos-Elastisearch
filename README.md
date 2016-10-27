@@ -31,3 +31,12 @@ Vamos pegar como base um modelo de produto para ecommerce, bem básico:
   updated_at: Date,
 }
 ```
+
+## Índices
+
+Agora precisamos escolher quais desses dados serão índices no ElastiSearch.
+
+- name
+- description ?
+- characteristics
+- tags
